@@ -14,3 +14,5 @@ A collection of my solutions to popular **Data Structures & Algorithms (DSA)** p
 
 ### 5. Count subarrays with given sum K - [TakeUForward Problem Link](https://takeuforward.org/plus/dsa/problems/count-subarrays-with-given-sum)
 
+### 6. Merge Intervals - [LeetCode Problem Link](https://leetcode.com/problems/merge-intervals/description/)
+
