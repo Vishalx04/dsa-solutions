@@ -20,3 +20,7 @@ Find the length of the largest subarray whose sum is 0.
 Find all unique quadruplets in an array that sum to a target value.  
 [TakeUForward Problem Link](https://takeuforward.org/plus/dsa/problems/count-subarrays-with-given-xor-k)
 
+### 5. Count subarrays with given sum K
+Find all unique quadruplets in an array that sum to a target value.  
+[TakeUForward Problem Link](https://takeuforward.org/plus/dsa/problems/count-subarrays-with-given-sum)
+
