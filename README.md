@@ -16,3 +16,5 @@ A collection of my solutions to popular **Data Structures & Algorithms (DSA)** p
 
 ### 6. Merge Intervals - [LeetCode Problem Link](https://leetcode.com/problems/merge-intervals/description/)
 
+### 6. Rotate Image - [LeetCode Problem Link](https://leetcode.com/problems/rotate-image/description/)
+
