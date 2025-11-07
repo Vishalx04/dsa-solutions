@@ -20,3 +20,5 @@ A collection of my solutions to popular **Data Structures & Algorithms (DSA)** p
 
 ### 8. Spiral Matrix - [LeetCode Problem Link](https://leetcode.com/problems/spiral-matrix/description/)
 
+### 9. Median of two sorted array - [LeetCode Problem Link](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
+
