@@ -22,3 +22,5 @@ A collection of my solutions to popular **Data Structures & Algorithms (DSA)** p
 
 ### 9. Median of two sorted array - [LeetCode Problem Link](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
 
+### 10. Container with most water - [LeetCode Problem Link](https://leetcode.com/problems/container-with-most-water/)
+
