@@ -24,3 +24,5 @@ A collection of my solutions to popular **Data Structures & Algorithms (DSA)** p
 
 ### 10. Container with most water - [LeetCode Problem Link](https://leetcode.com/problems/container-with-most-water/)
 
+### 11. Merge Sorted Array - [LeetCode Problem Link](https://leetcode.com/problems/merge-sorted-array/description/)
+
