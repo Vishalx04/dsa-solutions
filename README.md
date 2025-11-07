@@ -26,3 +26,5 @@ A collection of my solutions to popular **Data Structures & Algorithms (DSA)** p
 
 ### 11. Merge Sorted Array - [LeetCode Problem Link](https://leetcode.com/problems/merge-sorted-array/description/)
 
+### 12. Find the repeating and missing number - [TakeUForward Problem Link](https://takeuforward.org/plus/dsa/problems/find-the-repeating-and-missing-number)
+
