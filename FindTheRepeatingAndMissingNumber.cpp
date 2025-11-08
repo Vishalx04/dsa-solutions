@@ -7,7 +7,7 @@ class Solution {
             int idx = abs(nums[i]) - 1;
             if (nums[idx] < 0) {
                 repeating = abs(nums[i]);
-                break;
+            
             } else {
                 nums[idx]*=-1;
             }
