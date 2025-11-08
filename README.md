@@ -32,3 +32,5 @@ A collection of my solutions to popular **Data Structures & Algorithms (DSA)** p
 
 ### 14. Reverse Pairs - [LeetCode Problem Link](https://leetcode.com/problems/reverse-pairs/)
 
+### 15. Majority element II - [LeetCode Problem Link](https://leetcode.com/problems/majority-element-ii/description/)
+
