@@ -34,3 +34,5 @@ A collection of my solutions to popular **Data Structures & Algorithms (DSA)** p
 
 ### 15. Majority element II - [LeetCode Problem Link](https://leetcode.com/problems/majority-element-ii/description/)
 
+### 16. Pascal's Triangle - [LeetCode Problem Link](https://leetcode.com/problems/pascals-triangle/)
+
