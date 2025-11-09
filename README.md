@@ -42,3 +42,5 @@ A collection of my solutions to popular **Data Structures & Algorithms (DSA)** p
 
 ### 19. Lower Bound - [TakeUForward Problem Link](https://takeuforward.org/plus/dsa/problems/lower-bound-)
 
+### 20. Upper Bound - [TakeUForward Problem Link](https://takeuforward.org/plus/dsa/problems/upper-bound)
+
