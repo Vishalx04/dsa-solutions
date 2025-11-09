@@ -44,3 +44,5 @@ A collection of my solutions to popular **Data Structures & Algorithms (DSA)** p
 
 ### 20. Upper Bound - [TakeUForward Problem Link](https://takeuforward.org/plus/dsa/problems/upper-bound)
 
+### 21. Search Insert Position - [LeetCode Problem Link](https://leetcode.com/problems/search-insert-position/description/)
+
