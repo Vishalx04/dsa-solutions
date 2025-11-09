@@ -40,3 +40,5 @@ A collection of my solutions to popular **Data Structures & Algorithms (DSA)** p
 
 ### 18. Binary Search - [LeetCode Problem Link](https://leetcode.com/problems/binary-search/)
 
+### 19. Lower Bound - [TakeUForward Problem Link](https://takeuforward.org/plus/dsa/problems/lower-bound-)
+
