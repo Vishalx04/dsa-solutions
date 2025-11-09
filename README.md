@@ -48,3 +48,5 @@ A collection of my solutions to popular **Data Structures & Algorithms (DSA)** p
 
 ### 22. Search Insert Position - [TakeUForward Problem Link](https://takeuforward.org/plus/dsa/problems/floor-and-ceil-in-sorted-array)
 
+### 23. Search Insert Position - [LeetCode Problem Link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+
