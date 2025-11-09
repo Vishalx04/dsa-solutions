@@ -46,3 +46,5 @@ A collection of my solutions to popular **Data Structures & Algorithms (DSA)** p
 
 ### 21. Search Insert Position - [LeetCode Problem Link](https://leetcode.com/problems/search-insert-position/description/)
 
+### 22. Search Insert Position - [TakeUForward Problem Link](https://takeuforward.org/plus/dsa/problems/floor-and-ceil-in-sorted-array)
+
