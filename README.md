@@ -50,3 +50,5 @@ A collection of my solutions to popular **Data Structures & Algorithms (DSA)** p
 
 ### 23. Search Insert Position - [LeetCode Problem Link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 
+### 24. Count Occurrences in sorted array - [TakeUForward Problem Link](https://takeuforward.org/plus/dsa/problems/count-occurrences-in-a-sorted-array)
+
