@@ -36,5 +36,7 @@ A collection of my solutions to popular **Data Structures & Algorithms (DSA)** p
 
 ### 16. Pascal's Triangle - [LeetCode Problem Link](https://leetcode.com/problems/pascals-triangle/)
 
-### 16. Maximum product subarray - [LeetCode Problem Link](https://leetcode.com/problems/maximum-product-subarray/)
+### 17. Maximum product subarray - [LeetCode Problem Link](https://leetcode.com/problems/maximum-product-subarray/)
+
+### 18. Binary Search - [LeetCode Problem Link](https://leetcode.com/problems/binary-search/)
 
