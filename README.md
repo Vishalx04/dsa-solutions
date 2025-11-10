@@ -54,5 +54,5 @@ A collection of my solutions to popular **Data Structures & Algorithms (DSA)** p
 
 ### 25. Search in Rotated Sorted Array - [LeetCode Problem Link](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 
-### 26. Search in Rotated Sorted Array - [LeetCode Problem Link](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)
+### 26. Search in Rotated Sorted Array II - [LeetCode Problem Link](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)
 
