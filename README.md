@@ -58,3 +58,5 @@ A collection of my solutions to popular **Data Structures & Algorithms (DSA)** p
 
 ### 27. Find Minimum in Rotated Sorted Array - [LeetCode Problem Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 
+### 28. Find How many times an array is rotated - [TakeUForward Problem Link](https://takeuforward.org/plus/dsa/problems/find-out-how-many-times-the-array-is-rotated)
+

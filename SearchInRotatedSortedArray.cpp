@@ -10,7 +10,8 @@ public:
         if(nums[low]<=nums[mid]){
             if(target<=nums[mid] && target>=nums[low]) high = mid-1;
             else low = mid+1;
-        }// else right half sorted
+        }
+        // else right half sorted
         else {
             if(target >= nums[mid] &&  target<=nums[high]){
                 low = mid+1;
