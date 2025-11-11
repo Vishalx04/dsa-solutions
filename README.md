@@ -56,3 +56,5 @@ A collection of my solutions to popular **Data Structures & Algorithms (DSA)** p
 
 ### 26. Search in Rotated Sorted Array II - [LeetCode Problem Link](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)
 
+### 27. Find Minimum in Rotated Sorted Array - [LeetCode Problem Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+
